@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "209a2813a2b84b748aa9a41a",
+    "name": "Aarav Sharma",
+    "email": "artist1@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A watercolor artist known for painting peaceful Indian landscapes. His work reflects the beauty of rural life and nature.",
+    "avatarUrl": "/assets/artists/artist1.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "1370cab8d0e749e7be6c373f",
+    "name": "Anvi Gupta",
+    "email": "artist2@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A digital illustrator famous for her bold colors and minimalist character designs. Her modern art style is loved by young audiences.",
+    "avatarUrl": "/assets/artists/artist2.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "4c5892e3896e40bfaac4f757",
+    "name": "Devansh Verma",
+    "email": "artist3@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "An artist who blends Indian folk art with contemporary painting. His creations are inspired by festivals, culture, and traditional stories.",
+    "avatarUrl": "/assets/artists/artist3.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "b82dc4a6ad094de7844f5ed8",
+    "name": "Kiara Singh",
+    "email": "artist4@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A portrait and fashion sketch artist recognized for her detailed, stylisg drawings. Her artwork carries a modern and elegant tounch.",
+    "avatarUrl": "/assets/artists/artist4.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "6d35035a59c84defa49b4423",
+    "name": "Manav Tiwari",
+    "email": "artist5@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A street artist specializing in graffiti and wall murals. His vibrant art transforms city spaces into creative visual experiences.",
+    "avatarUrl": "/assets/artists/artist5.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "a5ec25f4bc2f427394e95666",
+    "name": "Riddhi Agrawal",
+    "email": "artist6@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A mandala and hand-drawn pattern artist whose work reflects balance, calmness, and spiritual harmony.",
+    "avatarUrl": "/assets/artists/artist6.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  }
+  ,
+  {
+    "_id": "b7e1c8a9d2f44e1a8c7e7a01",
+    "name": "Saanvi Mehra",
+    "email": "artist7@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A contemporary artist blending Indian mythology with modern pop art, known for vibrant, playful canvases.",
+    "avatarUrl": "/assets/artists/artist7.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8f2d9b0e3a54f2b9d8e8b02",
+    "name": "Ishaan Patel",
+    "email": "artist8@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A landscape painter capturing the spirit of Indian monsoons and rural life in lush, detailed scenes.",
+    "avatarUrl": "/assets/artists/artist8.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "d9e3f0c1f4b64e3c8e9f9c03",
+    "name": "Meera Joshi",
+    "email": "artist9@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A calligraphy and typography artist, fusing Hindi scripts with modern design for unique visual stories.",
+    "avatarUrl": "/assets/artists/artist9.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "eaf4a1d2f5c74f4c9fa0ad04",
+    "name": "Kabir Deshmukh",
+    "email": "artist10@example.com",
+    "password": "ArtistPwd123!",
+    "role": "artist",
+    "bio": "A wildlife illustrator, celebrated for his detailed animal portraits and conservation-themed artwork.",
+    "avatarUrl": "/assets/artists/artist10.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  }
+]

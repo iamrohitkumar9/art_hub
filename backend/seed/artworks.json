@@ -1,0 +1,1592 @@
+[
+  {
+    "_id": "e5c509a0d6904834b81b19bb",
+    "title": "Artwork 1 by Artist 1",
+    "description": "A demo description for Artwork 1 by Artist 1.",
+    "price": 490,
+    "images": [
+            "/assets/artworks/1.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Oil",
+    "style": "Abstract",
+    "tags": [
+      "nature",
+      "portrait"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "4c38d013b4214ef0868c5d1b",
+    "title": "Artwork 2 by Artist 1",
+    "description": "A demo description for Artwork 2 by Artist 1.",
+    "price": 754,
+    "images": [
+          "/assets/artworks/2.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Abstract",
+    "tags": [
+      "urban",
+      "portrait"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "dce5157208a84457ba98cf3b",
+    "title": "Artwork 3 by Artist 1",
+    "description": "A demo description for Artwork 3 by Artist 1.",
+    "price": 211,
+    "images": [
+          "/assets/artworks/3.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Minimal",
+    "tags": [
+      "surreal",
+      "vibrant"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "fdf3400ae20e43c5b77866b4",
+    "title": "Artwork 4 by Artist 1",
+    "description": "A demo description for Artwork 4 by Artist 1.",
+    "price": 143,
+    "images": [
+          "/assets/artworks/4.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Acrylic",
+    "style": "Impressionism",
+    "tags": [
+      "portrait",
+      "vibrant"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "462e0727034f45dcac442089",
+    "title": "Artwork 5 by Artist 1",
+    "description": "A demo description for Artwork 5 by Artist 1.",
+    "price": 828,
+    "images": [
+          "/assets/artworks/5.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Watercolor",
+    "style": "Impressionism",
+    "tags": [
+      "modern",
+      "surreal"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "4ebd7520a6254b26b81cc559",
+    "title": "Artwork 6 by Artist 1",
+    "description": "A demo description for Artwork 6 by Artist 1.",
+    "price": 479,
+    "images": [
+          "/assets/artworks/6.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Abstract",
+    "tags": [
+      "modern",
+      "vibrant"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "36ae95ed67db4b2991b6b369",
+    "title": "Artwork 7 by Artist 1",
+    "description": "A demo description for Artwork 7 by Artist 1.",
+    "price": 996,
+    "images": [
+          "/assets/artworks/7.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Minimal",
+    "tags": [
+      "vibrant",
+      "surreal"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "70e003d7b1fc4ba2b968d841",
+    "title": "Artwork 8 by Artist 1",
+    "description": "A demo description for Artwork 8 by Artist 1.",
+    "price": 519,
+    "images": [
+          "/assets/artworks/8.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Contemporary",
+    "tags": [
+      "monochrome",
+      "portrait"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "7a5cd2480bb643deb64b683c",
+    "title": "Artwork 9 by Artist 1",
+    "description": "A demo description for Artwork 9 by Artist 1.",
+    "price": 1211,
+    "images": [
+          "/assets/artworks/9.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Digital",
+    "style": "Realism",
+    "tags": [
+      "urban",
+      "nature"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "ca50ca11dc1f4770947811df",
+    "title": "Artwork 10 by Artist 1",
+    "description": "A demo description for Artwork 10 by Artist 1.",
+    "price": 342,
+    "images": [
+          "/assets/artworks/10.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Acrylic",
+    "style": "Realism",
+    "tags": [
+      "figurative",
+      "monochrome"
+    ],
+    "inventory": 10,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "0d2db7e2f4604a8c994e81ef",
+    "title": "Artwork 11 by Artist 1",
+    "description": "A demo description for Artwork 11 by Artist 1.",
+    "price": 927,
+    "images": [
+          "/assets/artworks/11.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Watercolor",
+    "style": "Impressionism",
+    "tags": [
+      "vibrant",
+      "modern"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "2fb2ab21acef49918a2b9feb",
+    "title": "Artwork 12 by Artist 1",
+    "description": "A demo description for Artwork 12 by Artist 1.",
+    "price": 1060,
+    "images": [
+          "/assets/artworks/12.jpg"
+    ],
+    "artist": "209a2813a2b84b748aa9a41a",
+    "medium": "Oil",
+    "style": "Abstract",
+    "tags": [
+      "modern",
+      "figurative"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "4f49add234104b1dbb198b5d",
+    "title": "Artwork 13 by Artist 2",
+    "description": "A demo description for Artwork 13 by Artist 2.",
+    "price": 1271,
+    "images": [
+          "/assets/artworks/13.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Watercolor",
+    "style": "Contemporary",
+    "tags": [
+      "urban",
+      "monochrome"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "0d2ed2cf35884f6d98a3139c",
+    "title": "Artwork 14 by Artist 2",
+    "description": "A demo description for Artwork 14 by Artist 2.",
+    "price": 73,
+    "images": [
+          "/assets/artworks/14.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Print",
+    "style": "Abstract",
+    "tags": [
+      "figurative",
+      "monochrome"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "2c8f5c8203774ca6b8068ec5",
+    "title": "Artwork 15 by Artist 2",
+    "description": "A demo description for Artwork 15 by Artist 2.",
+    "price": 278,
+    "images": [
+          "/assets/artworks/15.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Watercolor",
+    "style": "Realism",
+    "tags": [
+      "urban",
+      "landscape"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "a06ebd6bd8b34d40b4b2dbeb",
+    "title": "Artwork 16 by Artist 2",
+    "description": "A demo description for Artwork 16 by Artist 2.",
+    "price": 1075,
+    "images": [
+          "/assets/artworks/16.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Mixed Media",
+    "style": "Abstract",
+    "tags": [
+      "monochrome",
+      "vibrant"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "f6b1c756717f45a2a1f4cde2",
+    "title": "Artwork 17 by Artist 2",
+    "description": "A demo description for Artwork 17 by Artist 2.",
+    "price": 815,
+      "images": [
+      "/assets/artworks/17.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Mixed Media",
+    "style": "Minimal",
+    "tags": [
+      "landscape",
+      "surreal"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "cd58b79adf5248d4892c5274",
+    "title": "Artwork 18 by Artist 2",
+    "description": "A demo description for Artwork 18 by Artist 2.",
+    "price": 89,
+      "images": [
+      "/assets/artworks/18.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Digital",
+    "style": "Impressionism",
+    "tags": [
+      "vibrant",
+      "landscape"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "dd5bf0963ab940869ef43f7d",
+    "title": "Artwork 19 by Artist 2",
+    "description": "A demo description for Artwork 19 by Artist 2.",
+    "price": 1211,
+      "images": [
+      "/assets/artworks/19.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Oil",
+    "style": "Contemporary",
+    "tags": [
+      "portrait",
+      "modern"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "8950a13f1e2244f7afc9b381",
+    "title": "Artwork 20 by Artist 2",
+    "description": "A demo description for Artwork 20 by Artist 2.",
+    "price": 1401,
+      "images": [
+      "/assets/artworks/20.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Mixed Media",
+    "style": "Realism",
+    "tags": [
+      "monochrome",
+      "nature"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "6891020019664d9e8e0f8b24",
+    "title": "Artwork 21 by Artist 2",
+    "description": "A demo description for Artwork 21 by Artist 2.",
+    "price": 1154,
+    "images": [
+      "/assets/artworks/21.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Print",
+    "style": "Realism",
+    "tags": [
+      "monochrome",
+      "nature"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c19be816abc44b9ba8707168",
+    "title": "Artwork 22 by Artist 2",
+    "description": "A demo description for Artwork 22 by Artist 2.",
+    "price": 947,
+    "images": [
+      "/assets/artworks/22.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Watercolor",
+    "style": "Abstract",
+    "tags": [
+      "vibrant",
+      "figurative"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "769ec08f247c4c88a36dba93",
+    "title": "Artwork 23 by Artist 2",
+    "description": "A demo description for Artwork 23 by Artist 2.",
+    "price": 742,
+      "images": [
+      "/assets/artworks/23.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Mixed Media",
+    "style": "Minimal",
+    "tags": [
+      "vibrant",
+      "figurative"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "b195d967becd48cfbf6b4b85",
+    "title": "Artwork 24 by Artist 2",
+    "description": "A demo description for Artwork 24 by Artist 2.",
+    "price": 195,
+      "images": [
+      "/assets/artworks/24.jpg"
+    ],
+    "artist": "1370cab8d0e749e7be6c373f",
+    "medium": "Print",
+    "style": "Abstract",
+    "tags": [
+      "vibrant",
+      "portrait"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "f737037ed7df41238f80f3e3",
+    "title": "Artwork 25 by Artist 3",
+    "description": "A demo description for Artwork 25 by Artist 3.",
+    "price": 726,
+    "images": [
+      "/assets/artworks/25.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Mixed Media",
+    "style": "Realism",
+    "tags": [
+      "monochrome",
+      "urban"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "45ab447547b0422eb01e4a97",
+    "title": "Artwork 26 by Artist 3",
+    "description": "A demo description for Artwork 26 by Artist 3.",
+    "price": 1154,
+    "images": [
+      "/assets/artworks/26.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Print",
+    "style": "Minimal",
+    "tags": [
+      "urban",
+      "vibrant"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "9060b6dd3a89425bbcf930e3",
+    "title": "Artwork 27 by Artist 3",
+    "description": "A demo description for Artwork 27 by Artist 3.",
+    "price": 883,
+    "images": [
+      "/assets/artworks/27.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Oil",
+    "style": "Abstract",
+    "tags": [
+      "nature",
+      "surreal"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "aba7ac45b7414e87a9e2d3bd",
+    "title": "Artwork 28 by Artist 3",
+    "description": "A demo description for Artwork 28 by Artist 3.",
+    "price": 891,
+    "images": [
+     "/assets/artworks/28.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Print",
+    "style": "Abstract",
+    "tags": [
+      "portrait",
+      "landscape"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "ec982bc272fa4f84a17a40f8",
+    "title": "Artwork 29 by Artist 3",
+    "description": "A demo description for Artwork 29 by Artist 3.",
+    "price": 744,
+    "images": [
+      "/assets/artworks/29.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Acrylic",
+    "style": "Realism",
+    "tags": [
+      "vibrant",
+      "urban"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "14303bd8483a478faa782718",
+    "title": "Artwork 30 by Artist 3",
+    "description": "A demo description for Artwork 30 by Artist 3.",
+    "price": 914,
+    "images": [
+      "/assets/artworks/30.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Digital",
+    "style": "Contemporary",
+    "tags": [
+      "vibrant",
+      "portrait"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "87f84698685e47e0ac0ff28f",
+    "title": "Artwork 31 by Artist 3",
+    "description": "A demo description for Artwork 31 by Artist 3.",
+    "price": 1177,
+    "images": ["/assets/artworks/31.jpg"    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Oil",
+    "style": "Minimal",
+    "tags": [
+      "landscape",
+      "portrait"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "4a59783cff474519a84b9911",
+    "title": "Artwork 32 by Artist 3",
+    "description": "A demo description for Artwork 32 by Artist 3.",
+    "price": 390,
+    "images": [
+"/assets/artworks/32.jpg"    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Watercolor",
+    "style": "Contemporary",
+    "tags": [
+      "vibrant",
+      "nature"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "af22a7d00ec04ad98f4d32bd",
+    "title": "Artwork 33 by Artist 3",
+    "description": "A demo description for Artwork 33 by Artist 3.",
+    "price": 387,
+    "images": [
+      "/assets/artworks/33.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Oil",
+    "style": "Contemporary",
+    "tags": [
+      "monochrome",
+      "urban"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "abbef6cc6f144056a957570d",
+    "title": "Artwork 34 by Artist 3",
+    "description": "A demo description for Artwork 34 by Artist 3.",
+    "price": 916,
+    "images": [
+      "/assets/artworks/34.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Print",
+    "style": "Minimal",
+    "tags": [
+      "urban",
+      "modern"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "a32c098063e54c428915b7eb",
+    "title": "Artwork 35 by Artist 3",
+    "description": "A demo description for Artwork 35 by Artist 3.",
+    "price": 657,
+    "images": [
+      "/assets/artworks/35.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Oil",
+    "style": "Minimal",
+    "tags": [
+      "figurative",
+      "landscape"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "af404f2fb54d463f8b8178ac",
+    "title": "Artwork 36 by Artist 3",
+    "description": "A demo description for Artwork 36 by Artist 3.",
+    "price": 167,
+    "images": [
+      "/assets/artworks/36.jpg"
+    ],
+    "artist": "4c5892e3896e40bfaac4f757",
+    "medium": "Mixed Media",
+    "style": "Contemporary",
+    "tags": [
+      "figurative",
+      "modern"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "13d1cacad83f430d885ad084",
+    "title": "Artwork 37 by Artist 4",
+    "description": "A demo description for Artwork 37 by Artist 4.",
+    "price": 1090,
+    "images": [
+      "/assets/artworks/37.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Acrylic",
+    "style": "Abstract",
+    "tags": [
+      "portrait",
+      "vibrant"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "bf4a1917259d49fdb6ad9ac6",
+    "title": "Artwork 38 by Artist 4",
+    "description": "A demo description for Artwork 38 by Artist 4.",
+    "price": 295,
+      "images": [
+      "/assets/artworks/38.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Acrylic",
+    "style": "Minimal",
+    "tags": [
+      "landscape",
+      "portrait"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "bad5083f7fa24829802723aa",
+    "title": "Artwork 39 by Artist 4",
+    "description": "A demo description for Artwork 39 by Artist 4.",
+    "price": 1396,
+    "images": [
+      "/assets/artworks/39.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Mixed Media",
+    "style": "Minimal",
+    "tags": [
+      "surreal",
+      "monochrome"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "a22956ebe58a442c85ba636b",
+    "title": "Artwork 40 by Artist 4",
+    "description": "A demo description for Artwork 40 by Artist 4.",
+    "price": 1421,
+    "images": [
+      "/assets/artworks/40.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Digital",
+    "style": "Realism",
+    "tags": [
+      "monochrome",
+      "nature"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "5a40911be47640c992f7fff5",
+    "title": "Artwork 41 by Artist 4",
+    "description": "A demo description for Artwork 41 by Artist 4.",
+    "price": 1425,
+    "images": [
+      "/assets/artworks/41.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Digital",
+    "style": "Contemporary",
+    "tags": [
+      "surreal",
+      "portrait"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c905f575ff414245aaaa752b",
+    "title": "Artwork 42 by Artist 4",
+    "description": "A demo description for Artwork 42 by Artist 4.",
+    "price": 988,
+    "images": [
+      "/assets/artworks/42.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Mixed Media",
+    "style": "Abstract",
+    "tags": [
+      "portrait",
+      "vibrant"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "8874f480a2ae44948b6fb86b",
+    "title": "Artwork 43 by Artist 4",
+    "description": "A demo description for Artwork 43 by Artist 4.",
+    "price": 593,
+    "images": [
+      "/assets/artworks/43.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Digital",
+    "style": "Abstract",
+    "tags": [
+      "vibrant",
+      "surreal"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "dd943a9390d44a879ff1f1d5",
+    "title": "Artwork 44 by Artist 4",
+    "description": "A demo description for Artwork 44 by Artist 4.",
+    "price": 373,
+    "images": [
+      "/assets/artworks/44.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Mixed Media",
+    "style": "Impressionism",
+    "tags": [
+      "figurative",
+      "landscape"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c73513d4fae04958bc7b3173",
+    "title": "Artwork 45 by Artist 4",
+    "description": "A demo description for Artwork 45 by Artist 4.",
+    "price": 663,
+    "images": [
+      "/assets/artworks/45.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Oil",
+    "style": "Realism",
+    "tags": [
+      "monochrome",
+      "portrait"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "9d8915ae92234873aee6b7b4",
+    "title": "Artwork 46 by Artist 4",
+    "description": "A demo description for Artwork 46 by Artist 4.",
+    "price": 1183,
+    "images": [
+      "/assets/artworks/46.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Digital",
+    "style": "Impressionism",
+    "tags": [
+      "vibrant",
+      "surreal"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "9980ec6ef66a431a9603f0c5",
+    "title": "Artwork 47 by Artist 4",
+    "description": "A demo description for Artwork 47 by Artist 4.",
+    "price": 1457,
+    "images": [
+      "/assets/artworks/47.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Digital",
+    "style": "Minimal",
+    "tags": [
+      "urban",
+      "monochrome"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "063d2b1542ee4b329d48db85",
+    "title": "Artwork 48 by Artist 4",
+    "description": "A demo description for Artwork 48 by Artist 4.",
+    "price": 239,
+    "images": [
+      "/assets/artworks/48.jpg"
+    ],
+    "artist": "b82dc4a6ad094de7844f5ed8",
+    "medium": "Watercolor",
+    "style": "Impressionism",
+    "tags": [
+      "landscape",
+      "figurative"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "cb4062d3c56240b49d08750a",
+    "title": "Artwork 49 by Artist 5",
+    "description": "A demo description for Artwork 49 by Artist 5.",
+    "price": 317,
+    "images": [
+      "/assets/artworks/49.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Digital",
+    "style": "Realism",
+    "tags": [
+      "urban",
+      "nature"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "04ad37690b854333b50fd795",
+    "title": "Artwork 50 by Artist 5",
+    "description": "A demo description for Artwork 50 by Artist 5.",
+    "price": 69,
+      "images": [
+      "/assets/artworks/50.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Oil",
+    "style": "Realism",
+    "tags": [
+      "figurative",
+      "landscape"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "64e6499e6fbb4028a52650c7",
+    "title": "Artwork 51 by Artist 5",
+    "description": "A demo description for Artwork 51 by Artist 5.",
+    "price": 1242,
+    "images": [
+      "/assets/artworks/51.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Acrylic",
+    "style": "Contemporary",
+    "tags": [
+      "modern",
+      "landscape"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "1afe56f128784c15acea4613",
+    "title": "Artwork 52 by Artist 5",
+    "description": "A demo description for Artwork 52 by Artist 5.",
+    "price": 796,
+    "images": [
+      "/assets/artworks/52.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Digital",
+    "style": "Realism",
+    "tags": [
+      "vibrant",
+      "portrait"
+    ],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "3ab04344d01644a294912bfb",
+    "title": "Artwork 53 by Artist 5",
+    "description": "A demo description for Artwork 53 by Artist 5.",
+    "price": 1196,
+    "images": [
+      "/assets/artworks/53.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Mixed Media",
+    "style": "Realism",
+    "tags": [
+      "vibrant",
+      "modern"
+    ],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "478a0124cb5b48fab2a42fa4",
+    "title": "Artwork 54 by Artist 5",
+    "description": "A demo description for Artwork 54 by Artist 5.",
+    "price": 894,
+    "images": [
+      "/assets/artworks/54.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Acrylic",
+    "style": "Impressionism",
+    "tags": [
+      "nature",
+      "vibrant"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "6a6ee0868fa944ec892ccc43",
+    "title": "Artwork 55 by Artist 5",
+    "description": "A demo description for Artwork 55 by Artist 5.",
+    "price": 376,
+      "images": [
+      "/assets/artworks/55.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Oil",
+    "style": "Contemporary",
+    "tags": [
+      "landscape",
+      "urban"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "08694ad727fd4d07bcf0d248",
+    "title": "Artwork 56 by Artist 5",
+    "description": "A demo description for Artwork 56 by Artist 5.",
+    "price": 458,
+      "images": [
+      "/assets/artworks/56.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Digital",
+    "style": "Impressionism",
+    "tags": [
+      "vibrant",
+      "figurative"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "771cb74ff195405d8ed55fdd",
+    "title": "Artwork 57 by Artist 5",
+    "description": "A demo description for Artwork 57 by Artist 5.",
+    "price": 1401,
+      "images": [
+      "/assets/artworks/57.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Watercolor",
+    "style": "Impressionism",
+    "tags": [
+      "monochrome",
+      "portrait"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c47a81faaef643a0b21b6c7f",
+    "title": "Artwork 58 by Artist 5",
+    "description": "A demo description for Artwork 58 by Artist 5.",
+    "price": 769,
+      "images": [
+      "/assets/artworks/58.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Mixed Media",
+    "style": "Contemporary",
+    "tags": [
+      "figurative",
+      "surreal"
+    ],
+    "inventory": 1,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "44369f22aa4849e99aa958ec",
+    "title": "Artwork 59 by Artist 5",
+    "description": "A demo description for Artwork 59 by Artist 5.",
+    "price": 286,
+    "images": [
+      "/assets/artworks/59.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Acrylic",
+    "style": "Minimal",
+    "tags": [
+      "monochrome",
+      "landscape"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "873f295fc8ed478895c03ef8",
+    "title": "Artwork 60 by Artist 5",
+    "description": "A demo description for Artwork 60 by Artist 5.",
+    "price": 1271,
+    "images": [
+      "/assets/artworks/60.jpg"
+    ],
+    "artist": "6d35035a59c84defa49b4423",
+    "medium": "Digital",
+    "style": "Impressionism",
+    "tags": [
+      "nature",
+      "portrait"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "fa93c8d7a5b641018934c14b",
+    "title": "Artwork 61 by Artist 6",
+    "description": "A demo description for Artwork 61 by Artist 6.",
+    "price": 1230,
+    "images": [
+      "/assets/artworks/61.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Digital",
+    "style": "Abstract",
+    "tags": [
+      "nature",
+      "landscape"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "338442ccc9b44ff98f672bda",
+    "title": "Artwork 62 by Artist 6",
+    "description": "A demo description for Artwork 62 by Artist 6.",
+    "price": 1152,
+    "images": [
+      "/assets/artworks/62.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Print",
+    "style": "Realism",
+    "tags": [
+      "surreal",
+      "nature"
+    ],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "deaaabc4ff60489fa4eafc9a",
+    "title": "Artwork 63 by Artist 6",
+    "description": "A demo description for Artwork 63 by Artist 6.",
+    "price": 1410,
+    "images": [
+      "/assets/artworks/63.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Mixed Media",
+    "style": "Impressionism",
+    "tags": [
+      "portrait",
+      "monochrome"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "95029f477ce74cd9b03feec8",
+    "title": "Artwork 64 by Artist 6",
+    "description": "A demo description for Artwork 64 by Artist 6.",
+    "price": 683,
+    "images": [
+      "/assets/artworks/64.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Watercolor",
+    "style": "Impressionism",
+    "tags": [
+      "nature",
+      "monochrome"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "62cfe2d5e0f342ef9984d192",
+    "title": "Artwork 65 by Artist 6",
+    "description": "A demo description for Artwork 65 by Artist 6.",
+    "price": 310,
+    "images": [
+      "/assets/artworks/65.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Watercolor",
+    "style": "Contemporary",
+    "tags": [
+      "modern",
+      "monochrome"
+    ],
+    "inventory": 7,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "76c89695823b4c278b5be0d5",
+    "title": "Artwork 66 by Artist 6",
+    "description": "A demo description for Artwork 66 by Artist 6.",
+    "price": 1172,
+    "images": [
+      "/assets/artworks/66.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Digital",
+    "style": "Impressionism",
+    "tags": [
+      "vibrant",
+      "nature"
+    ],
+    "inventory": 10,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "bdcea3bd2c744f3d80cc5235",
+    "title": "Artwork 67 by Artist 6",
+    "description": "A demo description for Artwork 67 by Artist 6.",
+    "price": 1292,
+    "images": [
+      "/assets/artworks/67.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Digital",
+    "style": "Contemporary",
+    "tags": [
+      "urban",
+      "figurative"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "32451c716e624afa888f6d9a",
+    "title": "Artwork 68 by Artist 6",
+    "description": "A demo description for Artwork 68 by Artist 6.",
+    "price": 1096,
+    "images": [
+      "/assets/artworks/68.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Print",
+    "style": "Realism",
+    "tags": [
+      "portrait",
+      "monochrome"
+    ],
+    "inventory": 9,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "7db882ff74f64bc083190e63",
+    "title": "Artwork 69 by Artist 6",
+    "description": "A demo description for Artwork 69 by Artist 6.",
+    "price": 1409,
+    "images": [
+      "/assets/artworks/69.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Mixed Media",
+    "style": "Impressionism",
+    "tags": [
+      "portrait",
+      "vibrant"
+    ],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "b1e2479794f6456a9e47987b",
+    "title": "Artwork 70 by Artist 6",
+    "description": "A demo description for Artwork 70 by Artist 6.",
+    "price": 510,
+    "images": [
+      "/assets/artworks/70.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Acrylic",
+    "style": "Abstract",
+    "tags": [
+      "landscape",
+      "vibrant"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "5867286c555040d3b3ca1c14",
+    "title": "Artwork 71 by Artist 6",
+    "description": "A demo description for Artwork 71 by Artist 6.",
+    "price": 1301,
+    "images": [
+      "/assets/artworks/61.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Watercolor",
+    "style": "Contemporary",
+    "tags": [
+      "vibrant",
+      "nature"
+    ],
+    "inventory": 8,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "ba8355be697e48b580836067",
+    "title": "Artwork 72 by Artist 6",
+    "description": "A demo description for Artwork 72 by Artist 6.",
+    "price": 868,
+    "images": [
+      "/assets/artworks/62.jpg"
+    ],
+    "artist": "a5ec25f4bc2f427394e95666",
+    "medium": "Acrylic",
+    "style": "Abstract",
+    "tags": [
+      "portrait",
+      "nature"
+    ],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  }
+  ,
+  {
+    "_id": "b7e1c8a9d2f44e1a8c7e7a11",
+    "title": "Artwork 1 by Artist 7",
+    "description": "A demo description for Artwork 1 by Artist 7.",
+    "price": 700,
+    "images": ["/assets/artworks/68.jpg"],
+    "artist": "b7e1c8a9d2f44e1a8c7e7a01",
+    "medium": "Digital",
+    "style": "Pop Art",
+    "tags": ["vibrant", "mythology"],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "b7e1c8a9d2f44e1a8c7e7a12",
+    "title": "Artwork 2 by Artist 7",
+    "description": "A demo description for Artwork 2 by Artist 7.",
+    "price": 820,
+    "images": ["/assets/artworks/69.jpg"],
+    "artist": "b7e1c8a9d2f44e1a8c7e7a01",
+    "medium": "Acrylic",
+    "style": "Modern",
+    "tags": ["playful", "colorful"],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "b7e1c8a9d2f44e1a8c7e7a13",
+    "title": "Artwork 3 by Artist 7",
+    "description": "A demo description for Artwork 3 by Artist 7.",
+    "price": 910,
+    "images": ["/assets/artworks/70.jpg"],
+    "artist": "b7e1c8a9d2f44e1a8c7e7a01",
+    "medium": "Mixed Media",
+    "style": "Abstract",
+    "tags": ["mythology", "modern"],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "b7e1c8a9d2f44e1a8c7e7a14",
+    "title": "Artwork 4 by Artist 7",
+    "description": "A demo description for Artwork 4 by Artist 7.",
+    "price": 650,
+    "images": ["/assets/artworks/71.jpg"],
+    "artist": "b7e1c8a9d2f44e1a8c7e7a01",
+    "medium": "Digital",
+    "style": "Pop Art",
+    "tags": ["vibrant", "playful"],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8f2d9b0e3a54f2b9d8e8b21",
+    "title": "Artwork 1 by Artist 8",
+    "description": "A demo description for Artwork 1 by Artist 8.",
+    "price": 720,
+    "images": ["/assets/artworks/72.jpg"],
+    "artist": "c8f2d9b0e3a54f2b9d8e8b02",
+    "medium": "Oil",
+    "style": "Landscape",
+    "tags": ["monsoon", "nature"],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8f2d9b0e3a54f2b9d8e8b22",
+    "title": "Artwork 2 by Artist 8",
+    "description": "A demo description for Artwork 2 by Artist 8.",
+    "price": 830,
+    "images": ["/assets/artworks/73.jpg"],
+    "artist": "c8f2d9b0e3a54f2b9d8e8b02",
+    "medium": "Watercolor",
+    "style": "Realism",
+    "tags": ["rural", "detailed"],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8f2d9b0e3a54f2b9d8e8b23",
+    "title": "Artwork 3 by Artist 8",
+    "description": "A demo description for Artwork 3 by Artist 8.",
+    "price": 910,
+    "images": ["/assets/artworks/74.jpg"],
+    "artist": "c8f2d9b0e3a54f2b9d8e8b02",
+    "medium": "Acrylic",
+    "style": "Landscape",
+    "tags": ["monsoon", "lush"],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8f2d9b0e3a54f2b9d8e8b24",
+    "title": "Artwork 4 by Artist 8",
+    "description": "A demo description for Artwork 4 by Artist 8.",
+    "price": 780,
+    "images": ["/assets/artworks/75.jpg"],
+    "artist": "c8f2d9b0e3a54f2b9d8e8b02",
+    "medium": "Oil",
+    "style": "Realism",
+    "tags": ["detailed", "nature"],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "d9e3f0c1f4b64e3c8e9f9c31",
+    "title": "Artwork 1 by Artist 9",
+    "description": "A demo description for Artwork 1 by Artist 9.",
+    "price": 690,
+    "images": ["/assets/artworks/76.jpg"],
+    "artist": "d9e3f0c1f4b64e3c8e9f9c03",
+    "medium": "Ink",
+    "style": "Calligraphy",
+    "tags": ["typography", "hindi"],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "d9e3f0c1f4b64e3c8e9f9c32",
+    "title": "Artwork 2 by Artist 9",
+    "description": "A demo description for Artwork 2 by Artist 9.",
+    "price": 720,
+    "images": ["/assets/artworks/77.jpg"],
+    "artist": "d9e3f0c1f4b64e3c8e9f9c03",
+    "medium": "Digital",
+    "style": "Typography",
+    "tags": ["modern", "script"],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "d9e3f0c1f4b64e3c8e9f9c33",
+    "title": "Artwork 3 by Artist 9",
+    "description": "A demo description for Artwork 3 by Artist 9.",
+    "price": 810,
+    "images": ["/assets/artworks/78.jpg"],
+    "artist": "d9e3f0c1f4b64e3c8e9f9c03",
+    "medium": "Ink",
+    "style": "Calligraphy",
+    "tags": ["hindi", "modern"],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "d9e3f0c1f4b64e3c8e9f9c34",
+    "title": "Artwork 4 by Artist 9",
+    "description": "A demo description for Artwork 4 by Artist 9.",
+    "price": 900,
+    "images": ["/assets/artworks/79.jpg"],
+    "artist": "d9e3f0c1f4b64e3c8e9f9c03",
+    "medium": "Digital",
+    "style": "Typography",
+    "tags": ["script", "unique"],
+    "inventory": 2,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "eaf4a1d2f5c74f4c9fa0ad41",
+    "title": "Artwork 1 by Artist 10",
+    "description": "A demo description for Artwork 1 by Artist 10.",
+    "price": 950,
+    "images": ["/assets/artworks/80.jpg"],
+    "artist": "eaf4a1d2f5c74f4c9fa0ad04",
+    "medium": "Watercolor",
+    "style": "Wildlife",
+    "tags": ["animal", "portrait"],
+    "inventory": 6,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "eaf4a1d2f5c74f4c9fa0ad42",
+    "title": "Artwork 2 by Artist 10",
+    "description": "A demo description for Artwork 2 by Artist 10.",
+    "price": 1020,
+    "images": ["/assets/artworks/81.jpg"],
+    "artist": "eaf4a1d2f5c74f4c9fa0ad04",
+    "medium": "Acrylic",
+    "style": "Wildlife",
+    "tags": ["conservation", "detailed"],
+    "inventory": 5,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "eaf4a1d2f5c74f4c9fa0ad43",
+    "title": "Artwork 3 by Artist 10",
+    "description": "A demo description for Artwork 3 by Artist 10.",
+    "price": 1100,
+    "images": ["/assets/artworks/82.jpg"],
+    "artist": "eaf4a1d2f5c74f4c9fa0ad04",
+    "medium": "Digital",
+    "style": "Wildlife",
+    "tags": ["animal", "nature"],
+    "inventory": 4,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  },
+  {
+    "_id": "eaf4a1d2f5c74f4c9fa0ad44",
+    "title": "Artwork 4 by Artist 10",
+    "description": "A demo description for Artwork 4 by Artist 10.",
+    "price": 980,
+    "images": ["/assets/artworks/83.jpg"],
+    "artist": "eaf4a1d2f5c74f4c9fa0ad04",
+    "medium": "Oil",
+    "style": "Wildlife",
+    "tags": ["portrait", "detailed"],
+    "inventory": 3,
+    "isPublished": true,
+    "createdAt": "2025-11-25T11:18:57.087434Z"
+  }
+]

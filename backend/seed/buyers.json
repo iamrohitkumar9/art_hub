@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "12b891029e8347b9b5af41e6",
+    "name": "Aarav Mehta",
+    "email": "buyer1@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "An IT professional who loves collecting vibrant landscape paintings for his home.",
+    "avatarUrl": "/assets/buyers/buyer1.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "cf76d9baddf440cb841702ba",
+    "name": "Rohan Sinha",
+    "email": "buyer2@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "A digital marketer who enjoys buying modern art that adds character to his workspace.",
+    "avatarUrl": "/assets/buyers/buyer2.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "6e7e3786c5d74b53a96b95a3",
+    "name": "Vikram Desai",
+    "email": "buyer3@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "A frequent traveller who collects artwork inspired by Indian culture and heritage.",
+    "avatarUrl": "/assets/buyers/buyer3.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "992559c0c1154402b55eaf1f",
+    "name": "Aditya Sharma",
+    "email": "buyer4@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Finance consultant interested in minimalistic and monochrome paintings.",
+    "avatarUrl": "/assets/buyers/buyer4.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "f4fc795bbfe94b4083b60ff5",
+    "name": "Kunal Kapoor ",
+    "email": "buyer5@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Loves supporting young artists and often buys portrait art for gifting.",
+    "avatarUrl": "/assets/buyers/buyer5.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c29d4c9cb178481b86af6d56",
+    "name": "Siddharth Rao",
+    "email": "buyer6@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Architecture student who purchases abstract pieces",
+    "avatarUrl": "/assets/buyers/buyer6.avif",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "c8a70dfff14b46ed867deb2b",
+    "name": "Harshit Verma",
+    "email": "buyer7@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "A startup founder who decorates his office with bold and energetic work.",
+    "avatarUrl": "/assets/buyers/buyer7.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "49f5d16cc27440268e109d44",
+    "name": "Manav Joshi",
+    "email": "buyer8@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Art enthusiast whoprefers traditional Indian folk art like Madhubani and Warli.",
+    "avatarUrl": "/assets/buyers/buyer8.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "e0b465b8c5e3477eb2d33f80",
+    "name": "Nikhil Bansal",
+    "email": "buyer9@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Aphotographer who collects nature-themed artwork for inspiration.",
+    "avatarUrl": "/assets/buyers/buyer9.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "640bfe69604c4635ae930fec",
+    "name": "Yash Chauhan",
+    "email": "buyer10@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Tech analyst interested in futuristic and geometric artwork.",
+    "avatarUrl": "/assets/buyers/buyer10.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "b1f7d2c729e54fb1b6a1dacc",
+    "name": "Ananya Iyer",
+    "email": "buyer11@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "An interior designer who buys colourful paintings to brighten client spaces.",
+    "avatarUrl": "/assets/buyers/buyer11.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "2077c51f963842fa94cf7a17",
+    "name": "Diya Nair",
+    "email": "buyer12@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Book lover who collects soft pastel artworks for her reading corner.",
+    "avatarUrl": "/assets/buyers/buyer12.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "59957e9ac99f48ed8004dbc9",
+    "name": "Ritika Malhotra",
+    "email": "buyer13@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Marketing executive who enjoys buying modern an experimental art.",
+    "avatarUrl": "/assets/buyers/buyer13.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "7145f7403141474bafb2f0ae",
+    "name": "Kavya Shetty",
+    "email": "buyer14@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "A traveller who collects art representing the culture of different Indian states.",
+    "avatarUrl": "/assets/buyers/buyer14.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "d276a17b99ca4a9ba42f435a",
+    "name": "Manya Gupta",
+    "email": "buyer15@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "A student and hobby painter who buys affordable art for inspiration.",
+    "avatarUrl": "/assets/buyers/buyer15.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "acf065c496e048dc9533d6ed",
+    "name": "Suhani Bhat",
+    "email": "buyer16@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "HR professional who likes calm, soothing wall art for her home.",
+    "avatarUrl": "/assets/buyers/buyer16.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "d1c41bff6f30463c971194a5",
+    "name": " Isha Kulkarni",
+    "email": "buyer17@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Loves collecting watercolor paintings ammd nature-themed artwork.",
+    "avatarUrl": "/assets/buyers/buyer17.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "535b11ea025e457bba984d3b",
+    "name": "Priya Redddy",
+    "email": "buyer18@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Corporate employee whi=o buys art to gift friends and colleagues.",
+    "avatarUrl": "/assets/buyers/buyer18.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "d3d904d84ecd4c1b9cc3222f",
+    "name": "Tanya Jain",
+    "email": "buyer19@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": " A fashio stylist inspired by bold colours and expressive paintings.",
+    "avatarUrl": "/assets/buyers/buyer19.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  },
+  {
+    "_id": "bdbeda0cbdc14c6f99a4c9bd",
+    "name": "Meera Banerjee",
+    "email": "buyer20@example.com",
+    "password": "BuyerPwd123!",
+    "role": "buyer",
+    "bio": "Art lover passionate about supporting emerging artists and handmade works.",
+    "avatarUrl": "/assets/buyers/buyer20.jpg",
+    "socialLinks": {},
+    "createdAt": "2025-11-23T11:18:57.087434Z"
+  }
+]
